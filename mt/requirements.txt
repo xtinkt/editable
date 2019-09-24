@@ -1,0 +1,9 @@
+torch>=1.1.0
+numpy>=0.13
+scipy>=1.2.0
+torchvision
+tqdm
+tensorboardX
+prefetch_generator
+mosestokenizer
+fairseq==0.8.0
