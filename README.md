@@ -1,6 +1,6 @@
 # Editable neural networks
 
-A supplementary code for anonymous ICLR 2020 submission.
+A supplementary code for [Editable Neural Networks](https://openreview.net/forum?id=HJedXaEtvS), an ICLR 2020 submission by Anton Sinitsin, Vsevolod Plokhotnyuk, Dmitry Pyrkin, Sergei Popov, Artem Babenko.
 
 <img src="./images/editable.png" width=600px>
 
